@@ -1,1 +1,3 @@
-# whoisricher-contract
+# WhoIsRicher Smart Contract 
+
+Readme WIP
