@@ -3,7 +3,7 @@
 This is the smart contract for the WhoIsRicher NFT.
 
 [WhoIsRicher](https://whoisricher.io/)
-[Smart Contract Adress 0xa7657133BC6D186a99CFa9aa30a31161F034Fb15](https://rinkeby.etherscan.io/address/0xa7657133BC6D186a99CFa9aa30a31161F034Fb15)
+[Smart Contract Adress 0xD9405331ae5794dD7c486C398544A5142d0d32cb](https://etherscan.io/address/0xD9405331ae5794dD7c486C398544A5142d0d32cb)
 
 
 We are looking for the richest person alive – Are you the one?
